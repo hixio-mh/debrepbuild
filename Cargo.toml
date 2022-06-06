@@ -28,7 +28,7 @@ glob = "0.2.11"
 hex-view = "0.1.2"
 itertools = "0.7.8"
 libc = "0.2"
-libflate = "0.1.18"
+libflate = "0.1.25"
 log = { version = "0.4.3" }
 md-5 = "0.7.0"
 parallel-getter = "0.2.0"
